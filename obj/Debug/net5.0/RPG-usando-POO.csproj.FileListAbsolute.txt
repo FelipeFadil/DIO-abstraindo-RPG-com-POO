@@ -1,0 +1,16 @@
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\bin\Debug\net5.0\RPG-usando-POO.exe
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\bin\Debug\net5.0\RPG-usando-POO.deps.json
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\bin\Debug\net5.0\RPG-usando-POO.runtimeconfig.json
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\bin\Debug\net5.0\RPG-usando-POO.runtimeconfig.dev.json
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\bin\Debug\net5.0\RPG-usando-POO.dll
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\bin\Debug\net5.0\ref\RPG-usando-POO.dll
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\bin\Debug\net5.0\RPG-usando-POO.pdb
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\obj\Debug\net5.0\RPG-usando-POO.csproj.AssemblyReference.cache
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\obj\Debug\net5.0\RPG-usando-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\obj\Debug\net5.0\RPG-usando-POO.AssemblyInfoInputs.cache
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\obj\Debug\net5.0\RPG-usando-POO.AssemblyInfo.cs
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\obj\Debug\net5.0\RPG-usando-POO.csproj.CoreCompileInputs.cache
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\obj\Debug\net5.0\RPG-usando-POO.dll
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\obj\Debug\net5.0\ref\RPG-usando-POO.dll
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\obj\Debug\net5.0\RPG-usando-POO.pdb
+C:\Docs Note\Digital Innovation One\Bootcamp GFT .NET #4\RPG-usando-POO\obj\Debug\net5.0\RPG-usando-POO.genruntimeconfig.cache
